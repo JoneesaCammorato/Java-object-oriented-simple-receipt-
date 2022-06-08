@@ -2,20 +2,9 @@
 import java.util.Scanner;
 
 /**
- * CPS141 - Spring 2022
- * 
- * Main program for Program 08 - DCC Diner Receipt
+ * Spring 2022
+ * Main program for Program 08 -  Diner Receipt
  * A simple receipt Simulator
- * 
- * DO NOT MAKE ANY CHANGES IN THIS FILE EXCEPT ON LINE 1 IF NEEDED.
- * DO NOT UPLOAD THIS FILE WITH THE ASSIGNMENT SUBMISISON.
- * DO NOT MAKE ANY "CORRECTIONS" BASED ON ERRORS REPORTED
- * IN THIS FILE. ANY ERRORS REPORTED HERE WILL BE DUE TO
- * ERRORS IN OTHER FILES.
- * 
- * DO REVIEW THIS FILE AS AN EXAMPLE FOR FUTURE PROJECS IF NEEDED.
- * 
- * @author joneesacammorato
  *
  */
 public class Program08 {
