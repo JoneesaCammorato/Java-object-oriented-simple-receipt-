@@ -1,10 +1,6 @@
 /**
- * Joneesa Cammorato
- * CPS141 - Spring 2022
  * 15 April 2022
  * Purpose: customer paying at restaurant input 
- * Assignment: Program 08 
- * @author joneesacammorato
  */
 public class Item {
 	// name of items
